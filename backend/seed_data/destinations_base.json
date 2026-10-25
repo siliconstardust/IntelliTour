@@ -1,0 +1,185 @@
+[
+ {
+  "id": 1,
+  "name": "Leh, Ladakh",
+  "state": "Ladakh",
+  "category": "Mountains",
+  "tags": [
+   "Mountains",
+   "Nature"
+  ],
+  "budget": 3500,
+  "lat": 34.1526,
+  "lng": 77.5771,
+  "wiki": "Leh Palace",
+  "description": "High-altitude desert, ancient monasteries and some of the clearest night skies in India."
+ },
+ {
+  "id": 2,
+  "name": "Manali",
+  "state": "Himachal Pradesh",
+  "category": "Mountains",
+  "tags": [
+   "Mountains",
+   "Nature"
+  ],
+  "budget": 2500,
+  "lat": 32.2432,
+  "lng": 77.1892,
+  "wiki": "Solang Valley",
+  "description": "Pine forests, snow valleys and cafes on the banks of the Beas."
+ },
+ {
+  "id": 3,
+  "name": "Munnar",
+  "state": "Kerala",
+  "category": "Nature",
+  "tags": [
+   "Nature",
+   "Mountains"
+  ],
+  "budget": 2500,
+  "lat": 10.0889,
+  "lng": 77.0595,
+  "wiki": "Munnar",
+  "description": "Rolling tea estates, misty hills and winding roads in the Western Ghats."
+ },
+ {
+  "id": 4,
+  "name": "Goa",
+  "state": "Goa",
+  "category": "Beaches",
+  "tags": [
+   "Beaches",
+   "Heritage",
+   "City escapes"
+  ],
+  "budget": 3500,
+  "lat": 15.4909,
+  "lng": 73.8278,
+  "wiki": "Baga Beach",
+  "description": "Palm-lined beaches, Portuguese-era churches and a relaxed coastal pace."
+ },
+ {
+  "id": 5,
+  "name": "Gokarna",
+  "state": "Karnataka",
+  "category": "Beaches",
+  "tags": [
+   "Beaches",
+   "Spiritual"
+  ],
+  "budget": 1800,
+  "lat": 14.5479,
+  "lng": 74.3188,
+  "wiki": "Gokarna, Karnataka",
+  "description": "A temple town with quiet beaches reached by short coastal treks."
+ },
+ {
+  "id": 6,
+  "name": "Havelock Island",
+  "state": "Andaman and Nicobar Islands",
+  "category": "Beaches",
+  "tags": [
+   "Beaches",
+   "Nature"
+  ],
+  "budget": 5000,
+  "lat": 11.974,
+  "lng": 92.987,
+  "wiki": "Radhanagar Beach",
+  "description": "Clear water, coral reefs and some of Asia’s best-known beaches."
+ },
+ {
+  "id": 7,
+  "name": "Jaipur",
+  "state": "Rajasthan",
+  "category": "Heritage",
+  "tags": [
+   "Heritage",
+   "City escapes"
+  ],
+  "budget": 3000,
+  "lat": 26.9124,
+  "lng": 75.7873,
+  "wiki": "Hawa Mahal",
+  "description": "The Pink City: forts, palaces and bazaars full of crafts."
+ },
+ {
+  "id": 8,
+  "name": "Hampi",
+  "state": "Karnataka",
+  "category": "Heritage",
+  "tags": [
+   "Heritage",
+   "Nature"
+  ],
+  "budget": 1800,
+  "lat": 15.335,
+  "lng": 76.46,
+  "wiki": "Hampi",
+  "description": "Boulder-strewn ruins of the Vijayanagara empire beside the Tungabhadra."
+ },
+ {
+  "id": 9,
+  "name": "Varanasi",
+  "state": "Uttar Pradesh",
+  "category": "Spiritual",
+  "tags": [
+   "Spiritual",
+   "Heritage"
+  ],
+  "budget": 2000,
+  "lat": 25.3176,
+  "lng": 82.9739,
+  "wiki": "Dashashwamedh Ghat",
+  "description": "One of the world’s oldest living cities, centred on the ghats of the Ganga."
+ },
+ {
+  "id": 10,
+  "name": "Rishikesh",
+  "state": "Uttarakhand",
+  "category": "Spiritual",
+  "tags": [
+   "Spiritual",
+   "Nature",
+   "Mountains"
+  ],
+  "budget": 2200,
+  "lat": 30.0869,
+  "lng": 78.2676,
+  "wiki": "Lakshman Jhula",
+  "description": "Yoga, riverside ashrams and the foothills of the Himalaya."
+ },
+ {
+  "id": 11,
+  "name": "Udaipur",
+  "state": "Rajasthan",
+  "category": "City escapes",
+  "tags": [
+   "City escapes",
+   "Heritage"
+  ],
+  "budget": 3500,
+  "lat": 24.5854,
+  "lng": 73.7125,
+  "wiki": "City Palace, Udaipur",
+  "description": "Lakeside palaces and old-city lanes, one of India’s most romantic cities."
+ },
+ {
+  "id": 12,
+  "name": "Kochi",
+  "state": "Kerala",
+  "category": "City escapes",
+  "tags": [
+   "City escapes",
+   "Heritage",
+   "Nature"
+  ],
+  "budget": 2800,
+  "lat": 9.9312,
+  "lng": 76.2673,
+  "wiki": "Chinese fishing nets",
+  "description": "A harbour city of spice history, art cafes and backwater cruises."
+ }
+]

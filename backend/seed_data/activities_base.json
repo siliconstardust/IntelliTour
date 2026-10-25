@@ -1,0 +1,2036 @@
+[
+ {
+  "city": "Pune",
+  "name": "Shaniwar Wada",
+  "t": [
+   1,
+   0.1,
+   0,
+   0,
+   0.2,
+   0
+  ],
+  "cost": 25,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "The 18th-century Peshwa fortress with grand gates and a light-and-sound show in the evening.",
+  "lat": 18.5195,
+  "lng": 73.8553
+ },
+ {
+  "city": "Pune",
+  "name": "Aga Khan Palace",
+  "t": [
+   0.9,
+   0.4,
+   0,
+   0,
+   0.3,
+   0
+  ],
+  "cost": 25,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "A palace and memorial linked to Mahatma Gandhi, set in quiet gardens.",
+  "lat": 18.5524,
+  "lng": 73.9015
+ },
+ {
+  "city": "Pune",
+  "name": "Raja Dinkar Kelkar Museum",
+  "t": [
+   0.9,
+   0,
+   0,
+   0,
+   0.1,
+   0.1
+  ],
+  "cost": 50,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "A private museum of more than 20,000 everyday and decorative objects from across India.",
+  "lat": 18.5101,
+  "lng": 73.8567
+ },
+ {
+  "city": "Pune",
+  "name": "Dagdusheth Ganpati",
+  "t": [
+   0.2,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.8,
+  "desc": "One of the best-known Ganesh temples in the city. Go early to avoid queues.",
+  "lat": 18.5164,
+  "lng": 73.8561
+ },
+ {
+  "city": "Pune",
+  "name": "Parvati Hill",
+  "t": [
+   0.4,
+   0.6,
+   0,
+   0.3,
+   0.7,
+   0
+  ],
+  "cost": 20,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "About 100 steps to temples and a wide view over the city.",
+  "lat": 18.4965,
+  "lng": 73.8445
+ },
+ {
+  "city": "Pune",
+  "name": "Sinhagad Fort",
+  "t": [
+   0.8,
+   0.8,
+   0.3,
+   0.9,
+   0,
+   0
+  ],
+  "cost": 100,
+  "hours": 3.5,
+  "pop": 4.6,
+  "desc": "A hill fort with a steep climb, misty monsoon views and local snacks at the top.",
+  "lat": 18.3664,
+  "lng": 73.7559
+ },
+ {
+  "city": "Pune",
+  "name": "Osho Garden",
+  "t": [
+   0,
+   0.9,
+   0,
+   0,
+   0.3,
+   0
+  ],
+  "cost": 50,
+  "hours": 1.5,
+  "pop": 4.2,
+  "desc": "A calm, shaded garden with bamboo groves and water features.",
+  "lat": 18.5362,
+  "lng": 73.8851
+ },
+ {
+  "city": "Pune",
+  "name": "Pu La Deshpande Garden",
+  "t": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 30,
+  "hours": 1.5,
+  "pop": 4.3,
+  "desc": "A Japanese-style garden on the river with walking paths.",
+  "lat": 18.488,
+  "lng": 73.83
+ },
+ {
+  "city": "Pune",
+  "name": "Vaishali and FC Road",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0.6
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Classic Pune eating: dosa, misal and filter coffee, with student-street shopping next door.",
+  "lat": 18.5236,
+  "lng": 73.841
+ },
+ {
+  "city": "Pune",
+  "name": "Laxmi Road Market",
+  "t": [
+   0.2,
+   0,
+   0.5,
+   0,
+   0,
+   1
+  ],
+  "cost": 500,
+  "hours": 2,
+  "pop": 4.2,
+  "desc": "The old city’s busiest shopping street for clothes, sweets and jewellery.",
+  "lat": 18.5149,
+  "lng": 73.856
+ },
+ {
+  "city": "Pune",
+  "name": "Koregaon Park Cafes",
+  "t": [
+   0,
+   0.2,
+   1,
+   0,
+   0,
+   0.4
+  ],
+  "cost": 400,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Tree-lined streets with bakeries, cafes and international food.",
+  "lat": 18.5362,
+  "lng": 73.8938
+ },
+ {
+  "city": "Pune",
+  "name": "Pashan Lake",
+  "t": [
+   0,
+   0.9,
+   0,
+   0.1,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.2,
+  "desc": "A quiet lake known for migratory birds, best at sunrise.",
+  "lat": 18.5352,
+  "lng": 73.7821
+ },
+ {
+  "city": "Pune",
+  "name": "Kamshet Paragliding",
+  "t": [
+   0,
+   0.6,
+   0,
+   1,
+   0,
+   0
+  ],
+  "cost": 2500,
+  "hours": 3,
+  "pop": 4.7,
+  "desc": "Tandem paragliding over the Sahyadri foothills, season October to May.",
+  "lat": 18.7568,
+  "lng": 73.5818
+ },
+ {
+  "city": "Pune",
+  "name": "Khadakwasla Dam",
+  "t": [
+   0,
+   0.9,
+   0.3,
+   0.3,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 2,
+  "pop": 4.4,
+  "desc": "A reservoir with a sunset promenade and roadside corn and bhajis.",
+  "lat": 18.4423,
+  "lng": 73.7676
+ },
+ {
+  "city": "Pune",
+  "name": "Chaturshringi Temple",
+  "t": [
+   0.3,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "A hillside temple with a large festival crowd during Navratri.",
+  "lat": 18.5339,
+  "lng": 73.8302
+ },
+ {
+  "city": "Mumbai",
+  "name": "Gateway of India",
+  "t": [
+   1,
+   0.2222222222222222,
+   0,
+   0,
+   0.1111111111111111,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Harbour-side arch from 1924 and the start of most Mumbai walks.",
+  "lat": 18.922,
+  "lng": 72.8347
+ },
+ {
+  "city": "Mumbai",
+  "name": "Marine Drive",
+  "t": [
+   0,
+   0.6666666666666666,
+   0.6666666666666666,
+   0,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.6,
+  "desc": "Curved seafront promenade, best at sunset.",
+  "lat": 18.9439,
+  "lng": 72.8231
+ },
+ {
+  "city": "Mumbai",
+  "name": "Elephanta Caves",
+  "t": [
+   1,
+   0.5555555555555556,
+   0,
+   0.2222222222222222,
+   0,
+   0
+  ],
+  "cost": 250,
+  "hours": 4,
+  "pop": 4.3,
+  "desc": "Rock-cut cave temples reached by ferry from Gateway.",
+  "lat": 18.9633,
+  "lng": 72.9315
+ },
+ {
+  "city": "Mumbai",
+  "name": "Chhatrapati Shivaji Terminus",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.6,
+  "desc": "Gothic Revival railway station and UNESCO site.",
+  "lat": 18.9398,
+  "lng": 72.8355
+ },
+ {
+  "city": "Mumbai",
+  "name": "Colaba Causeway",
+  "t": [
+   0.2222222222222222,
+   0,
+   0.3333333333333333,
+   0,
+   0,
+   1
+  ],
+  "cost": 400,
+  "hours": 2,
+  "pop": 4.2,
+  "desc": "Street market for clothes, cafes and bargains.",
+  "lat": 18.915,
+  "lng": 72.8258
+ },
+ {
+  "city": "Mumbai",
+  "name": "Haji Ali Dargah",
+  "t": [
+   0.3333333333333333,
+   0.1111111111111111,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Mosque and tomb on an islet reached by a causeway.",
+  "lat": 18.9827,
+  "lng": 72.8089
+ },
+ {
+  "city": "Mumbai",
+  "name": "Siddhivinayak Temple",
+  "t": [
+   0.1111111111111111,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.6,
+  "desc": "Well-known Ganesh temple in Prabhadevi.",
+  "lat": 19.0169,
+  "lng": 72.8302
+ },
+ {
+  "city": "Mumbai",
+  "name": "Juhu Beach Street Food",
+  "t": [
+   0,
+   0.4444444444444444,
+   1,
+   0,
+   0,
+   0
+  ],
+  "cost": 200,
+  "hours": 2,
+  "pop": 4.3,
+  "desc": "Evening chaat, pav bhaji and sea breeze.",
+  "lat": 19.0988,
+  "lng": 72.8264
+ },
+ {
+  "city": "Mumbai",
+  "name": "Sanjay Gandhi National Park",
+  "t": [
+   0,
+   1,
+   0,
+   0.6666666666666666,
+   0,
+   0
+  ],
+  "cost": 100,
+  "hours": 4,
+  "pop": 4.4,
+  "desc": "Forest with Kanheri Caves and trails inside the city.",
+  "lat": 19.2147,
+  "lng": 72.9106
+ },
+ {
+  "city": "Mumbai",
+  "name": "Bandra Cafes and Bandstand",
+  "t": [
+   0,
+   0.3333333333333333,
+   1,
+   0,
+   0,
+   0.5555555555555556
+  ],
+  "cost": 500,
+  "hours": 2,
+  "pop": 4.4,
+  "desc": "Cafes, street art and sea views.",
+  "lat": 19.0436,
+  "lng": 72.819
+ },
+ {
+  "city": "Delhi",
+  "name": "Red Fort",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 35,
+  "hours": 2,
+  "pop": 4.5,
+  "desc": "Mughal fort and UNESCO site with an evening light show.",
+  "lat": 28.6562,
+  "lng": 77.241
+ },
+ {
+  "city": "Delhi",
+  "name": "India Gate",
+  "t": [
+   0.6666666666666666,
+   0.3333333333333333,
+   0,
+   0.2222222222222222,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.6,
+  "desc": "War memorial with wide lawns, lively at dusk.",
+  "lat": 28.6129,
+  "lng": 77.2295
+ },
+ {
+  "city": "Delhi",
+  "name": "Humayun Tomb",
+  "t": [
+   1,
+   0.2222222222222222,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 40,
+  "hours": 1.5,
+  "pop": 4.6,
+  "desc": "Garden tomb that inspired the Taj Mahal.",
+  "lat": 28.5933,
+  "lng": 77.2507
+ },
+ {
+  "city": "Delhi",
+  "name": "Qutub Minar",
+  "t": [
+   1,
+   0.3333333333333333,
+   0,
+   0.1111111111111111,
+   0,
+   0
+  ],
+  "cost": 40,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Soaring 13th-century minaret complex.",
+  "lat": 28.5245,
+  "lng": 77.1855
+ },
+ {
+  "city": "Delhi",
+  "name": "Lotus Temple",
+  "t": [
+   0.2222222222222222,
+   0.4444444444444444,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Bahá’í temple shaped like a lotus, calm inside.",
+  "lat": 28.5535,
+  "lng": 77.2588
+ },
+ {
+  "city": "Delhi",
+  "name": "Chandni Chowk",
+  "t": [
+   0.4444444444444444,
+   0,
+   1,
+   0,
+   0,
+   1
+  ],
+  "cost": 400,
+  "hours": 2.5,
+  "pop": 4.4,
+  "desc": "Old Delhi lanes for parathas, jalebi and bazaars.",
+  "lat": 28.6506,
+  "lng": 77.2303
+ },
+ {
+  "city": "Delhi",
+  "name": "Akshardham Temple",
+  "t": [
+   0.3333333333333333,
+   0.1111111111111111,
+   0,
+   0,
+   1,
+   0.1111111111111111
+  ],
+  "cost": 0,
+  "hours": 3,
+  "pop": 4.6,
+  "desc": "Large modern temple complex with exhibitions.",
+  "lat": 28.6127,
+  "lng": 77.2773
+ },
+ {
+  "city": "Delhi",
+  "name": "Lodhi Garden",
+  "t": [
+   0.3333333333333333,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Tombs among lawns, popular for walks.",
+  "lat": 28.5931,
+  "lng": 77.2197
+ },
+ {
+  "city": "Delhi",
+  "name": "Hauz Khas Village",
+  "t": [
+   0.3333333333333333,
+   0.3333333333333333,
+   0.8888888888888888,
+   0,
+   0,
+   0.6666666666666666
+  ],
+  "cost": 600,
+  "hours": 2.5,
+  "pop": 4.3,
+  "desc": "Lake, ruins and cafes in one neighbourhood.",
+  "lat": 28.5535,
+  "lng": 77.1943
+ },
+ {
+  "city": "Delhi",
+  "name": "Connaught Place",
+  "t": [
+   0.1111111111111111,
+   0,
+   0.5555555555555556,
+   0,
+   0,
+   1
+  ],
+  "cost": 500,
+  "hours": 2,
+  "pop": 4.2,
+  "desc": "Colonial circle with shops and restaurants.",
+  "lat": 28.6315,
+  "lng": 77.2167
+ },
+ {
+  "city": "Jaipur",
+  "name": "Amber Fort",
+  "t": [
+   1,
+   0.3333333333333333,
+   0,
+   0.3333333333333333,
+   0,
+   0
+  ],
+  "cost": 100,
+  "hours": 3,
+  "pop": 4.7,
+  "desc": "Hilltop fort-palace with mirror halls.",
+  "lat": 26.9855,
+  "lng": 75.8513
+ },
+ {
+  "city": "Jaipur",
+  "name": "City Palace Jaipur",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0.2222222222222222
+  ],
+  "cost": 200,
+  "hours": 2,
+  "pop": 4.5,
+  "desc": "Royal residence with museums, still partly lived in.",
+  "lat": 26.9258,
+  "lng": 75.8236
+ },
+ {
+  "city": "Jaipur",
+  "name": "Hawa Mahal",
+  "t": [
+   0.8888888888888888,
+   0,
+   0,
+   0,
+   0,
+   0.3333333333333333
+  ],
+  "cost": 50,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Pink honeycomb façade with 953 windows.",
+  "lat": 26.9239,
+  "lng": 75.8267
+ },
+ {
+  "city": "Jaipur",
+  "name": "Jantar Mantar",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 1,
+  "pop": 4.4,
+  "desc": "18th-century astronomical instruments.",
+  "lat": 26.9247,
+  "lng": 75.8246
+ },
+ {
+  "city": "Jaipur",
+  "name": "Nahargarh Fort",
+  "t": [
+   0.8888888888888888,
+   0.6666666666666666,
+   0,
+   0.3333333333333333,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 2.5,
+  "pop": 4.5,
+  "desc": "Hill fort with sunset views over the city.",
+  "lat": 26.9373,
+  "lng": 75.8153
+ },
+ {
+  "city": "Jaipur",
+  "name": "Jal Mahal",
+  "t": [
+   0.4444444444444444,
+   0.6666666666666666,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 0.5,
+  "pop": 4.3,
+  "desc": "Palace that seems to float on Man Sagar Lake.",
+  "lat": 26.9534,
+  "lng": 75.8465
+ },
+ {
+  "city": "Jaipur",
+  "name": "Johari Bazaar",
+  "t": [
+   0.2222222222222222,
+   0,
+   0.4444444444444444,
+   0,
+   0,
+   1
+  ],
+  "cost": 500,
+  "hours": 2,
+  "pop": 4.3,
+  "desc": "Jewellery, textiles and lac bangles.",
+  "lat": 26.9217,
+  "lng": 75.8261
+ },
+ {
+  "city": "Jaipur",
+  "name": "Chokhi Dhani",
+  "t": [
+   0.2222222222222222,
+   0.1111111111111111,
+   1,
+   0,
+   0,
+   0.3333333333333333
+  ],
+  "cost": 900,
+  "hours": 3,
+  "pop": 4.4,
+  "desc": "Rajasthani village-style dinner with folk shows.",
+  "lat": 26.769,
+  "lng": 75.836
+ },
+ {
+  "city": "Jaipur",
+  "name": "Galta Ji Temple",
+  "t": [
+   0.4444444444444444,
+   0.5555555555555556,
+   0.1111111111111111,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.2,
+  "desc": "Hill temple complex with natural springs.",
+  "lat": 26.9197,
+  "lng": 75.8639
+ },
+ {
+  "city": "Agra",
+  "name": "Taj Mahal",
+  "t": [
+   1,
+   0.3333333333333333,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 250,
+  "hours": 3,
+  "pop": 4.9,
+  "desc": "White marble mausoleum, best at sunrise.",
+  "lat": 27.1751,
+  "lng": 78.0421
+ },
+ {
+  "city": "Agra",
+  "name": "Agra Fort",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 2,
+  "pop": 4.5,
+  "desc": "Red sandstone Mughal fort facing the Taj.",
+  "lat": 27.1795,
+  "lng": 78.0211
+ },
+ {
+  "city": "Agra",
+  "name": "Mehtab Bagh",
+  "t": [
+   0.4444444444444444,
+   0.8888888888888888,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 1,
+  "pop": 4.4,
+  "desc": "Garden across the Yamuna with Taj views.",
+  "lat": 27.1794,
+  "lng": 78.045
+ },
+ {
+  "city": "Agra",
+  "name": "Itmad-ud-Daulah",
+  "t": [
+   1,
+   0.2222222222222222,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 1,
+  "pop": 4.2,
+  "desc": "Known as the Baby Taj for its delicate marble inlay.",
+  "lat": 27.1925,
+  "lng": 78.0301
+ },
+ {
+  "city": "Agra",
+  "name": "Kinari Bazaar",
+  "t": [
+   0.2222222222222222,
+   0,
+   0.5555555555555556,
+   0,
+   0,
+   1
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.1,
+  "desc": "Old market for marble crafts, leather and petha.",
+  "lat": 27.1859,
+  "lng": 78.009
+ },
+ {
+  "city": "Agra",
+  "name": "Akbar Tomb Sikandra",
+  "t": [
+   0.8888888888888888,
+   0.5555555555555556,
+   0,
+   0,
+   0.1111111111111111,
+   0
+  ],
+  "cost": 50,
+  "hours": 1,
+  "pop": 4.1,
+  "desc": "Mughal emperor’s tomb in landscaped grounds.",
+  "lat": 27.2204,
+  "lng": 77.9505
+ },
+ {
+  "city": "Agra",
+  "name": "Agra Food Street",
+  "t": [
+   0.1111111111111111,
+   0,
+   1,
+   0,
+   0,
+   0.2222222222222222
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.3,
+  "desc": "Petha, bedai and chaat near the Taj.",
+  "lat": 27.17,
+  "lng": 78.042
+ },
+ {
+  "city": "Varanasi",
+  "name": "Dashashwamedh Ghat",
+  "t": [
+   0.4444444444444444,
+   0.3333333333333333,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 2,
+  "pop": 4.8,
+  "desc": "Evening Ganga aarti with lamps and chanting.",
+  "lat": 25.3066,
+  "lng": 83.0105
+ },
+ {
+  "city": "Varanasi",
+  "name": "Kashi Vishwanath Temple",
+  "t": [
+   0.5555555555555556,
+   0,
+   0,
+   0,
+   1,
+   0.1111111111111111
+  ],
+  "cost": 0,
+  "hours": 2,
+  "pop": 4.8,
+  "desc": "One of the most sacred Shiva temples.",
+  "lat": 25.3109,
+  "lng": 83.0107
+ },
+ {
+  "city": "Varanasi",
+  "name": "Assi Ghat",
+  "t": [
+   0.3333333333333333,
+   0.4444444444444444,
+   0.3333333333333333,
+   0,
+   0.7777777777777778,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.6,
+  "desc": "Sunrise yoga and music on the southern ghat.",
+  "lat": 25.2886,
+  "lng": 83.0067
+ },
+ {
+  "city": "Varanasi",
+  "name": "Boat Ride on the Ganga",
+  "t": [
+   0.3333333333333333,
+   0.7777777777777778,
+   0,
+   0.5555555555555556,
+   0.5555555555555556,
+   0
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.7,
+  "desc": "Dawn row-boat past the ghats.",
+  "lat": 25.308,
+  "lng": 83.0115
+ },
+ {
+  "city": "Varanasi",
+  "name": "Sarnath",
+  "t": [
+   1,
+   0.4444444444444444,
+   0,
+   0,
+   0.8888888888888888,
+   0
+  ],
+  "cost": 50,
+  "hours": 3,
+  "pop": 4.5,
+  "desc": "Buddhist site where the Buddha gave his first sermon.",
+  "lat": 25.3813,
+  "lng": 83.0236
+ },
+ {
+  "city": "Varanasi",
+  "name": "Banaras Hindu University",
+  "t": [
+   0.4444444444444444,
+   0.6666666666666666,
+   0,
+   0,
+   0.4444444444444444,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Sprawling campus with a temple and museum.",
+  "lat": 25.2677,
+  "lng": 82.9913
+ },
+ {
+  "city": "Varanasi",
+  "name": "Kachori Gali",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0.2222222222222222
+  ],
+  "cost": 150,
+  "hours": 1,
+  "pop": 4.4,
+  "desc": "Kachori, lassi and malaiyo for breakfast.",
+  "lat": 25.3072,
+  "lng": 83.0081
+ },
+ {
+  "city": "Varanasi",
+  "name": "Ramnagar Fort",
+  "t": [
+   0.8888888888888888,
+   0.3333333333333333,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 1.5,
+  "pop": 4.1,
+  "desc": "Fort across the river with a vintage car museum.",
+  "lat": 25.269,
+  "lng": 83.023
+ },
+ {
+  "city": "Varanasi",
+  "name": "Vishwanath Gali Shops",
+  "t": [
+   0.1111111111111111,
+   0,
+   0.3333333333333333,
+   0,
+   0.5555555555555556,
+   1
+  ],
+  "cost": 500,
+  "hours": 1.5,
+  "pop": 4.2,
+  "desc": "Silk saris, brass and wooden toys.",
+  "lat": 25.3103,
+  "lng": 83.011
+ },
+ {
+  "city": "Goa",
+  "name": "Basilica of Bom Jesus",
+  "t": [
+   1,
+   0.1111111111111111,
+   0,
+   0,
+   0.7777777777777778,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.6,
+  "desc": "UNESCO church holding the relics of St Francis Xavier.",
+  "lat": 15.5009,
+  "lng": 73.9116
+ },
+ {
+  "city": "Goa",
+  "name": "Fort Aguada",
+  "t": [
+   0.8888888888888888,
+   0.5555555555555556,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "17th-century Portuguese fort and lighthouse.",
+  "lat": 15.4925,
+  "lng": 73.7737
+ },
+ {
+  "city": "Goa",
+  "name": "Baga Beach",
+  "t": [
+   0,
+   0.5555555555555556,
+   0.6666666666666666,
+   0.7777777777777778,
+   0,
+   0.4444444444444444
+  ],
+  "cost": 300,
+  "hours": 3,
+  "pop": 4.3,
+  "desc": "Water sports, shacks and nightlife.",
+  "lat": 15.5553,
+  "lng": 73.7517
+ },
+ {
+  "city": "Goa",
+  "name": "Anjuna Flea Market",
+  "t": [
+   0.1111111111111111,
+   0.2222222222222222,
+   0.4444444444444444,
+   0,
+   0,
+   1
+  ],
+  "cost": 400,
+  "hours": 2,
+  "pop": 4.2,
+  "desc": "Wednesday market of crafts and clothes.",
+  "lat": 15.5733,
+  "lng": 73.7416
+ },
+ {
+  "city": "Goa",
+  "name": "Palolem Beach",
+  "t": [
+   0,
+   1,
+   0.4444444444444444,
+   0.3333333333333333,
+   0,
+   0
+  ],
+  "cost": 200,
+  "hours": 3,
+  "pop": 4.6,
+  "desc": "Crescent beach in the south, calm and scenic.",
+  "lat": 15.01,
+  "lng": 74.0232
+ },
+ {
+  "city": "Goa",
+  "name": "Dudhsagar Falls",
+  "t": [
+   0,
+   1,
+   0,
+   0.7777777777777778,
+   0,
+   0
+  ],
+  "cost": 600,
+  "hours": 5,
+  "pop": 4.7,
+  "desc": "Four-tier waterfall reached by jeep through forest.",
+  "lat": 15.3144,
+  "lng": 74.3143
+ },
+ {
+  "city": "Goa",
+  "name": "Fontainhas Latin Quarter",
+  "t": [
+   0.7777777777777778,
+   0,
+   0.5555555555555556,
+   0,
+   0,
+   0.5555555555555556
+  ],
+  "cost": 200,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Painted Portuguese-era lanes with cafes.",
+  "lat": 15.4963,
+  "lng": 73.833
+ },
+ {
+  "city": "Goa",
+  "name": "Goan Seafood Thali",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 600,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Fish curry rice and recheado.",
+  "lat": 15.496,
+  "lng": 73.827
+ },
+ {
+  "city": "Goa",
+  "name": "Spice Plantation Tour",
+  "t": [
+   0.2222222222222222,
+   0.8888888888888888,
+   0.6666666666666666,
+   0.1111111111111111,
+   0,
+   0.2222222222222222
+  ],
+  "cost": 500,
+  "hours": 3,
+  "pop": 4.3,
+  "desc": "Guided walk and lunch among spice farms.",
+  "lat": 15.403,
+  "lng": 74.007
+ },
+ {
+  "city": "Udaipur",
+  "name": "City Palace Udaipur",
+  "t": [
+   1,
+   0.2222222222222222,
+   0,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 300,
+  "hours": 2,
+  "pop": 4.6,
+  "desc": "Lakeside palace complex with views across Pichola.",
+  "lat": 24.5764,
+  "lng": 73.6835
+ },
+ {
+  "city": "Udaipur",
+  "name": "Lake Pichola Boat Ride",
+  "t": [
+   0.4444444444444444,
+   0.8888888888888888,
+   0,
+   0.3333333333333333,
+   0,
+   0
+  ],
+  "cost": 400,
+  "hours": 1,
+  "pop": 4.6,
+  "desc": "Sunset boat past Jag Mandir.",
+  "lat": 24.5745,
+  "lng": 73.6803
+ },
+ {
+  "city": "Udaipur",
+  "name": "Jagdish Temple",
+  "t": [
+   0.6666666666666666,
+   0,
+   0,
+   0,
+   1,
+   0.1111111111111111
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Indo-Aryan temple near the palace.",
+  "lat": 24.5801,
+  "lng": 73.6838
+ },
+ {
+  "city": "Udaipur",
+  "name": "Saheliyon ki Bari",
+  "t": [
+   0.4444444444444444,
+   0.8888888888888888,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 1,
+  "pop": 4.3,
+  "desc": "Fountain garden built for royal ladies.",
+  "lat": 24.5987,
+  "lng": 73.6903
+ },
+ {
+  "city": "Udaipur",
+  "name": "Monsoon Palace",
+  "t": [
+   0.6666666666666666,
+   0.8888888888888888,
+   0,
+   0.2222222222222222,
+   0,
+   0
+  ],
+  "cost": 100,
+  "hours": 2,
+  "pop": 4.4,
+  "desc": "Hilltop palace with sunset panoramas.",
+  "lat": 24.5917,
+  "lng": 73.6552
+ },
+ {
+  "city": "Udaipur",
+  "name": "Fateh Sagar Lake",
+  "t": [
+   0.1111111111111111,
+   0.8888888888888888,
+   0.4444444444444444,
+   0.1111111111111111,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Lakeside promenade with snack stalls.",
+  "lat": 24.5985,
+  "lng": 73.676
+ },
+ {
+  "city": "Udaipur",
+  "name": "Bagore Ki Haveli Show",
+  "t": [
+   0.6666666666666666,
+   0,
+   0,
+   0,
+   0,
+   0.4444444444444444
+  ],
+  "cost": 100,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Evening Rajasthani folk dance and puppets.",
+  "lat": 24.5788,
+  "lng": 73.6824
+ },
+ {
+  "city": "Udaipur",
+  "name": "Hathi Pol Bazaar",
+  "t": [
+   0.2222222222222222,
+   0,
+   0.4444444444444444,
+   0,
+   0,
+   1
+  ],
+  "cost": 400,
+  "hours": 2,
+  "pop": 4.2,
+  "desc": "Miniature paintings, puppets and silver.",
+  "lat": 24.582,
+  "lng": 73.685
+ },
+ {
+  "city": "Udaipur",
+  "name": "Ambrai Ghat Dinner",
+  "t": [
+   0.1111111111111111,
+   0.3333333333333333,
+   1,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 700,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Lake-view dinner with the palace lit up.",
+  "lat": 24.579,
+  "lng": 73.679
+ },
+ {
+  "city": "Bengaluru",
+  "name": "Lalbagh Botanical Garden",
+  "t": [
+   0.2222222222222222,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 30,
+  "hours": 2,
+  "pop": 4.5,
+  "desc": "Garden of 240 years with a glasshouse.",
+  "lat": 12.9507,
+  "lng": 77.5848
+ },
+ {
+  "city": "Bengaluru",
+  "name": "Bangalore Palace",
+  "t": [
+   0.8888888888888888,
+   0.3333333333333333,
+   0,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.2,
+  "desc": "Tudor-style palace with an audio tour.",
+  "lat": 12.9988,
+  "lng": 77.5921
+ },
+ {
+  "city": "Bengaluru",
+  "name": "Cubbon Park",
+  "t": [
+   0.2222222222222222,
+   1,
+   0,
+   0.1111111111111111,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Green heart of the city with jogging tracks.",
+  "lat": 12.9763,
+  "lng": 77.5929
+ },
+ {
+  "city": "Bengaluru",
+  "name": "Vidhana Soudha",
+  "t": [
+   0.7777777777777778,
+   0.1111111111111111,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 0.5,
+  "pop": 4.4,
+  "desc": "Grand granite legislature building, seen from outside.",
+  "lat": 12.9796,
+  "lng": 77.5906
+ },
+ {
+  "city": "Bengaluru",
+  "name": "ISKCON Temple",
+  "t": [
+   0.2222222222222222,
+   0.1111111111111111,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.6,
+  "desc": "Large hilltop Krishna temple.",
+  "lat": 13.0098,
+  "lng": 77.5511
+ },
+ {
+  "city": "Bengaluru",
+  "name": "Commercial Street",
+  "t": [
+   0.1111111111111111,
+   0,
+   0.3333333333333333,
+   0,
+   0,
+   1
+  ],
+  "cost": 500,
+  "hours": 2,
+  "pop": 4.2,
+  "desc": "Busy market street for clothes and shoes.",
+  "lat": 12.9822,
+  "lng": 77.6083
+ },
+ {
+  "city": "Bengaluru",
+  "name": "MTR and VV Puram Food Street",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0.2222222222222222
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.6,
+  "desc": "Dosa, idli and chaat institutions.",
+  "lat": 12.95,
+  "lng": 77.573
+ },
+ {
+  "city": "Bengaluru",
+  "name": "Indiranagar Breweries",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0.3333333333333333
+  ],
+  "cost": 900,
+  "hours": 2,
+  "pop": 4.5,
+  "desc": "Craft breweries and cafes.",
+  "lat": 12.9784,
+  "lng": 77.6408
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Charminar",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0.2222222222222222,
+   0.4444444444444444
+  ],
+  "cost": 25,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "1591 monument with Laad Bazaar around it.",
+  "lat": 17.3616,
+  "lng": 78.4747
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Golconda Fort",
+  "t": [
+   1,
+   0.2222222222222222,
+   0,
+   0.2222222222222222,
+   0,
+   0
+  ],
+  "cost": 25,
+  "hours": 3,
+  "pop": 4.6,
+  "desc": "Hilltop fort famous for its clap acoustics.",
+  "lat": 17.3833,
+  "lng": 78.4011
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Hussain Sagar Lake",
+  "t": [
+   0.3333333333333333,
+   0.6666666666666666,
+   0.1111111111111111,
+   0,
+   0.4444444444444444,
+   0
+  ],
+  "cost": 100,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Lake with a giant Buddha statue on an islet.",
+  "lat": 17.4239,
+  "lng": 78.4738
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Chowmahalla Palace",
+  "t": [
+   1,
+   0.1111111111111111,
+   0,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 80,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Asaf Jahi palace with a vintage car museum.",
+  "lat": 17.3578,
+  "lng": 78.4717
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Ramoji Film City",
+  "t": [
+   0.1111111111111111,
+   0.3333333333333333,
+   0.3333333333333333,
+   0.6666666666666666,
+   0,
+   0.2222222222222222
+  ],
+  "cost": 1800,
+  "hours": 7,
+  "pop": 4.4,
+  "desc": "Giant studio park for a full-day trip.",
+  "lat": 17.2543,
+  "lng": 78.6808
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Paradise Biryani",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  "cost": 500,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Hyderabadi dum biryani, the signature dish.",
+  "lat": 17.4416,
+  "lng": 78.4872
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Laad Bazaar",
+  "t": [
+   0.2222222222222222,
+   0,
+   0.2222222222222222,
+   0,
+   0,
+   1
+  ],
+  "cost": 500,
+  "hours": 1.5,
+  "pop": 4.3,
+  "desc": "Bangles, pearls and attar.",
+  "lat": 17.3607,
+  "lng": 78.4733
+ },
+ {
+  "city": "Hyderabad",
+  "name": "Salar Jung Museum",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 2.5,
+  "pop": 4.5,
+  "desc": "One of the largest one-man art collections.",
+  "lat": 17.3713,
+  "lng": 78.4804
+ },
+ {
+  "city": "Kolkata",
+  "name": "Victoria Memorial",
+  "t": [
+   1,
+   0.4444444444444444,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 30,
+  "hours": 2,
+  "pop": 4.7,
+  "desc": "Marble museum and gardens.",
+  "lat": 22.5448,
+  "lng": 88.3426
+ },
+ {
+  "city": "Kolkata",
+  "name": "Howrah Bridge",
+  "t": [
+   0.6666666666666666,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Giant cantilever bridge over the Hooghly.",
+  "lat": 22.5851,
+  "lng": 88.3468
+ },
+ {
+  "city": "Kolkata",
+  "name": "Dakshineswar Kali Temple",
+  "t": [
+   0.3333333333333333,
+   0.1111111111111111,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Riverside temple of Goddess Kali.",
+  "lat": 22.655,
+  "lng": 88.3573
+ },
+ {
+  "city": "Kolkata",
+  "name": "Belur Math",
+  "t": [
+   0.3333333333333333,
+   0.3333333333333333,
+   0,
+   0,
+   1,
+   0
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.6,
+  "desc": "Ramakrishna Mission headquarters on the river.",
+  "lat": 22.6325,
+  "lng": 88.3558
+ },
+ {
+  "city": "Kolkata",
+  "name": "Indian Museum",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 50,
+  "hours": 2,
+  "pop": 4.3,
+  "desc": "India’s oldest museum.",
+  "lat": 22.558,
+  "lng": 88.351
+ },
+ {
+  "city": "Kolkata",
+  "name": "Park Street Cafes",
+  "t": [
+   0.3333333333333333,
+   0,
+   0.8888888888888888,
+   0,
+   0,
+   0.4444444444444444
+  ],
+  "cost": 500,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Colonial-era cafes and bakeries.",
+  "lat": 22.553,
+  "lng": 88.3523
+ },
+ {
+  "city": "Kolkata",
+  "name": "College Street Book Market",
+  "t": [
+   0.3333333333333333,
+   0,
+   0.2222222222222222,
+   0,
+   0,
+   0.6666666666666666
+  ],
+  "cost": 100,
+  "hours": 1.5,
+  "pop": 4.4,
+  "desc": "Famous bookstore district and Coffee House.",
+  "lat": 22.5745,
+  "lng": 88.3639
+ },
+ {
+  "city": "Kolkata",
+  "name": "Kumartuli Idol Makers",
+  "t": [
+   0.5555555555555556,
+   0,
+   0,
+   0,
+   0.4444444444444444,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.2,
+  "desc": "Lanes of clay artists making idols.",
+  "lat": 22.5995,
+  "lng": 88.364
+ },
+ {
+  "city": "Kolkata",
+  "name": "New Market",
+  "t": [
+   0.3333333333333333,
+   0,
+   0.3333333333333333,
+   0,
+   0,
+   1
+  ],
+  "cost": 400,
+  "hours": 2,
+  "pop": 4,
+  "desc": "Heritage market for clothes and sweets.",
+  "lat": 22.5604,
+  "lng": 88.3512
+ },
+ {
+  "city": "Kolkata",
+  "name": "Bengali Sweets Trail",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0.1111111111111111
+  ],
+  "cost": 200,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Rosogolla, sandesh and mishti doi.",
+  "lat": 22.589,
+  "lng": 88.365
+ },
+ {
+  "city": "Kochi",
+  "name": "Chinese Fishing Nets",
+  "t": [
+   0.5555555555555556,
+   0.6666666666666666,
+   0.3333333333333333,
+   0,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 1,
+  "pop": 4.4,
+  "desc": "Cantilever fishing nets at the harbour.",
+  "lat": 9.9658,
+  "lng": 76.2418
+ },
+ {
+  "city": "Kochi",
+  "name": "Mattancherry Palace",
+  "t": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "cost": 10,
+  "hours": 1,
+  "pop": 4.1,
+  "desc": "Portuguese-built palace with Kerala murals.",
+  "lat": 9.9578,
+  "lng": 76.2594
+ },
+ {
+  "city": "Kochi",
+  "name": "Jew Town Synagogue",
+  "t": [
+   1,
+   0,
+   0.3333333333333333,
+   0,
+   0.4444444444444444,
+   0.5555555555555556
+  ],
+  "cost": 10,
+  "hours": 1.5,
+  "pop": 4.3,
+  "desc": "Antique shops and a 1568 synagogue.",
+  "lat": 9.9568,
+  "lng": 76.26
+ },
+ {
+  "city": "Kochi",
+  "name": "Marine Drive Kochi",
+  "t": [
+   0.1111111111111111,
+   0.7777777777777778,
+   0.2222222222222222,
+   0,
+   0,
+   0.3333333333333333
+  ],
+  "cost": 0,
+  "hours": 1.5,
+  "pop": 4.3,
+  "desc": "Waterfront promenade at sunset.",
+  "lat": 9.976,
+  "lng": 76.276
+ },
+ {
+  "city": "Kochi",
+  "name": "Kathakali Show",
+  "t": [
+   0.7777777777777778,
+   0,
+   0,
+   0,
+   0.3333333333333333,
+   0
+  ],
+  "cost": 300,
+  "hours": 1.5,
+  "pop": 4.5,
+  "desc": "Classical Kerala dance-drama with a make-up demo.",
+  "lat": 9.968,
+  "lng": 76.244
+ },
+ {
+  "city": "Kochi",
+  "name": "Backwater Cruise",
+  "t": [
+   0.1111111111111111,
+   1,
+   0.3333333333333333,
+   0.2222222222222222,
+   0,
+   0
+  ],
+  "cost": 800,
+  "hours": 3,
+  "pop": 4.7,
+  "desc": "Canal cruise through coconut groves.",
+  "lat": 9.934,
+  "lng": 76.27
+ },
+ {
+  "city": "Kochi",
+  "name": "Kerala Sadya Lunch",
+  "t": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  "cost": 350,
+  "hours": 1,
+  "pop": 4.5,
+  "desc": "Banana-leaf feast with many curries.",
+  "lat": 9.98,
+  "lng": 76.285
+ },
+ {
+  "city": "Kochi",
+  "name": "Lulu Mall",
+  "t": [
+   0,
+   0,
+   0.4444444444444444,
+   0,
+   0,
+   1
+  ],
+  "cost": 600,
+  "hours": 2.5,
+  "pop": 4.4,
+  "desc": "Large mall with a food court.",
+  "lat": 10.027,
+  "lng": 76.3085
+ },
+ {
+  "city": "Kochi",
+  "name": "Cherai Beach",
+  "t": [
+   0,
+   0.8888888888888888,
+   0.3333333333333333,
+   0.3333333333333333,
+   0,
+   0
+  ],
+  "cost": 0,
+  "hours": 2,
+  "pop": 4.3,
+  "desc": "Quiet beach north of the city.",
+  "lat": 10.14,
+  "lng": 76.179
+ }
+]
